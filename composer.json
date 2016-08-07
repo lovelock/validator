@@ -1,0 +1,14 @@
+{
+    "name": "lovelock/validator",
+    "description": "The missing validator of values for PHP.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Frost Wong",
+            "email": "frostwong@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
