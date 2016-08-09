@@ -9,6 +9,9 @@
             "email": "frostwong@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {"Validator\\": "src/"}
+    },
     "minimum-stability": "dev",
     "require": {}
 }
